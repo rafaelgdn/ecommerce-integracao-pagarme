@@ -1,6 +1,6 @@
-# Live Transaction Pagar.me
+# Integração Ecommerce com Pagar.me
 
-Na live foi utilizado o `Lucid ORM` do AdonisJS, 
+Foi utilizado o `Lucid ORM` do AdonisJS, 
 pórem por algumas limitações dele em modo **standalone** não foram criadas as `migrations` do projeto.
 
 Mas as tabelas do projeto se encontram aqui:
